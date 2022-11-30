@@ -20,7 +20,6 @@
 *.xd
 *.fig
 *.sketch
-*.md
 starter/**
 
 npm-debug.log*
